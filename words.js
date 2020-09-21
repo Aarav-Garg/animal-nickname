@@ -1,4 +1,4 @@
-function words_junk{
+function words_junk() {
 var words = [
   "",
   "OK",
