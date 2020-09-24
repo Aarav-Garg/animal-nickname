@@ -1,4 +1,4 @@
-    function avatar(){
+    export function avatar(){
     var possible = ["001-cat.svg",
                     "002-horse.svg",
                     "003-gorilla.svg",
