@@ -52,9 +52,7 @@
     var LenNum = possible.length;
     var pos = Math.random() * (LenNum - 1) + 1;
     var Num = Math.trunc(pos);
-    var finFil = possible[Num];
-    var prefix = "avatar/";
-    var final = prefix.concat(final);
+    var final = possible[Num];
     return(final);
     console.log("Made using Aarav Garg's Avatar Generator. © 2020");
     }
